@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "6632220966",
+    "project_id": "mobilelab-e987b",
+    "storage_bucket": "mobilelab-e987b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6632220966:android:e5be9f4817e665c909f9e7",
+        "android_client_info": {
+          "package_name": "com.example.mobile_lab13"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACKK5ts1YSheGjjgUQC1A865npORCISX8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
